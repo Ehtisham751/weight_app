@@ -1,7 +1,7 @@
 {
-  "name": "weight_app",
+  "name": "weight_application",
   "version": "1.0.0",
-  "description": "weight_converter_app",
+  "description": "Responsive_app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
